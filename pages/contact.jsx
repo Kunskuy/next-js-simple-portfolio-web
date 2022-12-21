@@ -18,7 +18,7 @@ function Contact() {
             <p className="description">Ini kalo mau menghubungi</p>
 
             <ul className="contact-links">
-              <li className="contact-item">Email : kun@gmail.com</li>
+              <li className="contact-item">Email  : kun@gmail.com</li>
               <li className="contact-item">Phone : +620123456789</li>
             </ul>
           </div>
